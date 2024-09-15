@@ -22,3 +22,5 @@ npm run build
 **4.Gameplay**
 
 Use mouse clicks to move around the room and get close to different items to see a short message and relevant links. 
+
+Enjoy!
